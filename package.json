@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "clean": "hardhat clean",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@openzeppelin/contracts-upgradeable": "^5.0.0",
+    "hardhat": "^2.28.0"
+  }
+}
